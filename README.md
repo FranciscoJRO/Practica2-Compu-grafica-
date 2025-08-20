@@ -1,7 +1,7 @@
 # Práctica 2 – Pixel Art con OpenGL
 
 **Alumno:** Francisco Javier Reynoso Ortega  
-**No. de cuenta:** 421056697  
+**No. de cuenta:**   
 **Fecha de entrega:** 10/08/2025  
 
 ## 📌 Descripción
