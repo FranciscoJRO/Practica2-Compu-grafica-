@@ -277,6 +277,3 @@ void resize(GLFWwindow* window, int width, int height)
     int y = (height - size) / 2;
     glViewport(x, y, size, size);
 }
-
-
-//Liga del repo: https://github.com/FranciscoJRO/Practica2-Compu-grafica- 
